@@ -1,0 +1,2 @@
+# Imc-app
+react-native
